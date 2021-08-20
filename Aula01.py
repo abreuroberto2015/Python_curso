@@ -1,4 +1,8 @@
-print("Conheço um homem chamado João")
-print("ele tem 67 anos")
-print("Ele gosta de se shmar João")
-print("Mas não gosta de ter 67 anos")
+nome_personagem = "Pedro"
+idade_personagem = "70"
+
+print("Conheço um homem chamado " + nome_personagem + ",")
+print("ele tem " + idade_personagem + " anos")
+print("Ele gosta de se Chamar " + nome_personagem)
+print("Mas não gosta de ter " + idade_personagem + " anos")
+
